@@ -1,0 +1,14 @@
+# 论文原文与阅读笔记：仅本地保存，不入库
+Papers/
+Notes/
+
+# 中间产物与本地环境（可随时重建/清理）
+.work/
+
+# 系统杂项
+Thumbs.db
+.DS_Store
+
+# Python 缓存
+__pycache__/
+*.pyc
